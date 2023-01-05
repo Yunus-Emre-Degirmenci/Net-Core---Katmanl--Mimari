@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rCg6q4rl7LKth/oCKp1eDhyT2LlblLykd+K6vmsuEskZmaxSVvhYcSmT+uYB1rjmAjiUIAdB/bpGK4FrQUGakw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Masaüstü\\Dersler\\Directory\\Directory.MODEL\\Directory.MODEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\bin\Debug\net5.0\Directory.DAL.deps.json
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\bin\Debug\net5.0\Directory.DAL.dll
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\bin\Debug\net5.0\ref\Directory.DAL.dll
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\bin\Debug\net5.0\Directory.DAL.pdb
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\bin\Debug\net5.0\Directory.MAP.dll
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\bin\Debug\net5.0\Directory.MODEL.dll
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\bin\Debug\net5.0\Directory.MAP.pdb
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\bin\Debug\net5.0\Directory.MODEL.pdb
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.csproj.CopyComplete
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.dll
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\ref\Directory.DAL.dll
+C:\Users\Hp\OneDrive\Masaüstü\Dersler\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.pdb
